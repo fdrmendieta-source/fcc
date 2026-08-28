@@ -56,3 +56,8 @@ git commit -m "Add universe.sql database dump"
 git push origin main
 git status
 git add .
+git commit - m "All files"
+git commit -m "All files"
+git push origin main
+git status
+git add .
